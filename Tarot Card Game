@@ -1,0 +1,34 @@
+Tarot Card Game
+----------------
+this is a project that will show a demonstration of my knowledge in simple javascript
+
+
+Home Page
+-----------
+1. Title Bar
+2. Intructions
+3. the game(3 cards)
+4. Message Box
+
+
+Game: Get your reading, are you a fool, do you shine or do weep in the dark, see all your fourtunes before you become a fool.
+
+
+
+1.white title bar with black background, bold words
+2. white intructions: which will just be a short story for tarot readings
+3. I needs 3 cards.
+	- I need a function that accepts a click on each card
+	- I need a function that changes the clicked image into the desired image
+	- I need a function that shows a message based on the card clicked.
+	- I need a function that resets the the whole page
+
+
+
+
+
+
+
+game: Instructions: there are three cards, are you lucky and Shine like the Sun and Moon or are you just a Dark Fool!
+5 points are for the sun to win, moon takes away sun points and sun points add to your total, If you choose Dark Fool, You automaticly lose.
+1. There are three cards, 1 card will reveal a fool tarot card, with a popup message of you being a fool, if you pick the moon you get a moon point
