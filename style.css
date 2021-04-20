@@ -27,8 +27,10 @@ body {
 }
 .card {
 	cursor: pointer;
+	width: 200px;
+	height: 277px;
 }
-.message {
+.message-wrapper {
 	text-align: center;
 	font-weight: bolder;
 	font-size: 48px;
