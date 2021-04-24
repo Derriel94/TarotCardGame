@@ -18,6 +18,8 @@ let unturnedCard3;
 
 let currentlyChooseing = true;
 
+//let paths = ['Images/TC1.jpg', 'Images/TC2.jpg', 'Images/TC3.jpg'];
+
 const foolPath ='Images/TC1.jpg';
 const sunPath ='Images/TC2.jpg';
 const moonPath ='Images/TC3.jpg';
@@ -44,9 +46,9 @@ const showMessage = (path) => {
 		if (path === sunPath) {
 			message.innerText = 'You will shine like the Sun!'
 		} else if (path === moonPath) {
-			message.innerHTML = 'You are brilliant and humble like the moon';
+			message.innerHTML = 'You are brilliant and humble like the moon!';
 		} else if (path === foolPath) {
-			message.innerHTML = 'You is Boo Boo the Fool';
+			message.innerHTML = 'You is Boo Boo the Fool!';
 		}
 }
 // this is the click event, what happens the click event happens
